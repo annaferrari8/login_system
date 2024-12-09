@@ -6,6 +6,8 @@ Once the login in is verified, the user is directed into a Homepage that contain
 <br><img width="480" alt="welcome_message" src="https://github.com/user-attachments/assets/ace93498-2326-4b7e-a522-d5e811347882">
 
 <br>
-The user's data are stored in a table which contains the date, the time, the username and the password chosen to login into the website (for privacy reason I have censored the passwords) 
+The user's data are stored in a table which contains the following information: date, time, username and password (for privacy reason I have censored the passwords) 
 <br>
 <img width="653" alt="login_table" src="https://github.com/user-attachments/assets/6266e84c-cd33-4252-95da-72432be62a3c"><br>
+
+The main language I have used is **PHP**
